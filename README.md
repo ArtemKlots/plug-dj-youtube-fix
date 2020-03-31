@@ -6,7 +6,7 @@ Follow the steps to enjoy youtube:
 * Enable YouTube Data API v3
 * Clone current repository
 * Replace `const API_KEY = '***';` in `background.js` with your api key
-* Open [Chrome Extensions page](chrome://extensions/)
+* Open Chrome Extensions page `chrome://extensions/` or `Settings -> More tools -> Extensions`
 * Press `Load unpacked` and provide the project location in context window
-* Refresh thee plug-dj page
+* Refresh the plug-dj page
 * Enjoy :) 
